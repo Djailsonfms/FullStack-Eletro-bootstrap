@@ -10,7 +10,7 @@
 
 <body>
 
-<div class="container-fluid">
+<div class="container-fluid bg-dark">
         <h2 class="text-primary"style="margin-left:20px">Pedidos</h2>
         <hr>
             <div class="row">
